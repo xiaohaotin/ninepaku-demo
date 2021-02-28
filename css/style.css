@@ -419,7 +419,7 @@ background:#1891EC;
 border: #609cec 1px solid;
 background:#609cec;
 }
-.skill-home .icons {padding: 38px;width: 94px;height: 94px;color: #fff;font-size: 42px;font-size: 38px;text-align: center;-ms-border-radius: 50%;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 0;display: inline-table;color: #025a55;background: transparent;border-radius: 0;background: #0fcabf;border: none;width: 100%;border-bottom: 1px solid #fff;}
+.skill-home .icons {padding: 38px;width: 94px;height: 94px;color: #fff;font-size: 42px;font-size: 38px;text-align: center;-ms-border-radius: 50%;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 0;display: inline-table;color: #025a55;background: transparent;border-radius: 0;background: #00CCFF;border: none;width: 100%;border-bottom: 1px solid #fff;}
 .skill-home h2 {
 padding-top: 20px;
 font-size: 36px;
@@ -843,7 +843,7 @@ form#commentform textarea {
 	color: #fff;
 }
 section.section-padding.gray-bg {
-    background: #0fcabf;
+    background: #00CCFF;
     padding: 60px;
     color: #484848;
 }
@@ -944,7 +944,8 @@ blockquote cite a:visited 				{ color:#555; }
 }
 
 /* --- button --- */
-.btn{text-align: center;color: #FFFFFF;padding: 12px 25px;border-radius: 0;background: #0fcabf;border-color: transparent;}
+.btn{text-align: center;color: #FFFFFF;padding: 12px 25px;border-radius: 0;background: #00CCFF;border-color: transparent;}
+.btn1{text-align: center;color: #FFFFFF;width: 100px;height: 30px;border-radius: 0;background: #00CCFF;border-color: transparent;}
 .btn-theme {
 	color: #fff;
 	background: transparent;
@@ -1042,7 +1043,7 @@ display:block;
     text-decoration: none;
     font-weight: 600;
 }
-.box-area{padding: 15px;background: #0fcabf;/* margin-top: -21px; */border: none;color: #616161;}
+.box-area{padding: 15px;background: #00CCFF;/* margin-top: -21px; */border: none;color: #616161;}
 .box-area h3{font-size: 18px;font-weight: 600;color: #000;text-transform: uppercase;}
 /* --- Map --- */
 .map{
@@ -1367,7 +1368,7 @@ ul.social-network li {
     height:32px;
     bottom:0px;
     right:20px;
-    background: #0fcabf;
+    background: red;
 }
 
 a.scrollup {
